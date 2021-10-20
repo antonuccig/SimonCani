@@ -9,6 +9,6 @@ _SimonCani_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Int
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [license-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-## Usage
+## Usage on the web
 
-Add `https://cdn.jsdelivr.net/gh/giancarloantonucci/simoncani/font.css` into the header of an HTML document to use it.
+Host it yourself or add `https://cdn.jsdelivr.net/gh/giancarloantonucci/simoncani/font.css` into the header of an HTML document.
