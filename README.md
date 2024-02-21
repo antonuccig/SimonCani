@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][license-shield]][license]
 
-A web version of the _SimonCani_ font, designed to write phonetics using Luciano Canepari's canIPA. More details about canIPA can be found at http://www.canipa.net/doku.php.
+_SimonCani_ is a font designed to write phonetics using Luciano Canepari's canIPA. More details about canIPA can be found at http://www.canipa.net/doku.php.
 
 _SimonCani_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][license].
 
