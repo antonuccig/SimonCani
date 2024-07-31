@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][license-shield]][license]
 
-This repo holds _SimonCani_, a font designed to write phonetics using Luciano Canepari's canIPA (http://www.canipa.net/doku.php). It is a successor in spirit of [_Sophonetica_](https://github.com/giancarloantonucci/Sophonetica/tree/main), another older font.
+This repo hosts _SimonCani_, a font designed to write phonetics using Luciano Canepari's canIPA (http://www.canipa.net/doku.php). It's a spiritual successor to [_Sophonetica_](https://github.com/giancarloantonucci/Sophonetica/tree/main), another older font.
 
 _SimonCani_ is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][license].
 
