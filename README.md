@@ -4,7 +4,7 @@
 
 _SimonCani_ is a font designed to write phonetics using Luciano Canepari's canIPA. More details about canIPA can be found at http://www.canipa.net/doku.php.
 
-_SimonCani_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][license].
+_SimonCani_ is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][license].
 
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [license-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
